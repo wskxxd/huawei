@@ -1,0 +1,4 @@
+#cmd命令
+tracert 追踪路由
+route print 打印路由表
+netstat -an 打印本机链接
